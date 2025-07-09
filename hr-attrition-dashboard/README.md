@@ -13,6 +13,6 @@ This is my second Power BI dashboard, analyzing employee attrition using the IBM
 - Troubleshooting data types, formatting
 
 ## 📁 Files
-- `HR_Analytics_Dashboard.pbix` – Power BI dashboard
+- `HR_Analytics_Dashboard.pbix` – Power BI dashboard is NOT included, the file was too big
 - `HR-Employee-Attrition.csv` – Raw dataset
 - `screenshots/` – Dashboard previews
