@@ -30,13 +30,13 @@ The purpose of this project was to deepen my knowledge of Power BI by working wi
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard  
-![Main Dashboard](screenshots/HR Analytics Dasboard.png)
+![Main Dashboard](screenshots/HR_Analytics_Dasboard.png)
 
 ### 🔹 Drill-Through Page (Job Roles per Department)  
-![Drill Through](screenshots/Job Roles in Departments.png)
+![Drill Through](screenshots/Job_Roles_in_Departments.png)
 
 ### 🔹 Satisfaction Ratings and Employee Distribution  
-![Satisfaction Page](screenshots/Employee Tenure & Satisfaction Overview.png)
+![Satisfaction Page](screenshots/Employee_Tenure_&_Satisfaction_Overview.png)
 
 ---
 
