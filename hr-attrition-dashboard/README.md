@@ -55,11 +55,8 @@ The purpose of this project was to deepen my knowledge of Power BI by working wi
 ## 🔧 Tools Used
 
 - Power BI Desktop  
-- GitHub for version control  
-- Excel/CSV for raw data handling
-
+- Power BI Query Editor
 ---
 
 Thank you for checking out my HR analytics project!  
 I'm continuously learning and improving, and I hope to find a data-related role in the near future.  
-Feel free to give feedback or connect with me on [LinkedIn](#)! 🙌
