@@ -12,7 +12,7 @@ The purpose of this project was to deepen my knowledge of Power BI by working wi
 - Creating calculated columns and using DAX for KPIs  
 - Building interactive dashboards with drill-through pages  
 - Visualizing attrition by job role, department, gender, and satisfaction  
-- Using different chart types: ribbon chart, line chart, clustered bar chart, histogram  
+- Using different chart types: bar chart, line chart, clustered bar chart... 
 - Working with averages and distributions  
 - Customizing tooltips, formatting visuals, and improving clarity  
 - Best practices for storytelling in HR analytics
@@ -47,14 +47,14 @@ The purpose of this project was to deepen my knowledge of Power BI by working wi
 - **Attrition is highest** in the Sales department  
 - Job roles like **Laboratory Technician** and **Sales Executive** show higher attrition  
 - Employees with **lower satisfaction** levels tend to leave more  
-- Most employees stay for **0–5 years**, with peaks at 1 and 3 years  
 - **Younger employees** tend to have higher attrition
 
 ---
 
 ## 🔧 Tools Used
 
-- Power BI Desktop  
+- Power BI Desktop
+- DAX formulas
 - Power BI Query Editor
 ---
 
